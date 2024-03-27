@@ -25,15 +25,23 @@ git -v :  to check version of git
 git init - Create a git repo(folder) (hidden folder)
 
 git add <fileName> - to move to staging area from untracked.
-git status - for checking the status of git repo in stage
+git status - for checking the status of git repo (stage)
 
 git commit -m "commit message"
+git push origin "baranchName" - push / send code to github
 
 Stages for Tracking our File
 1- Untracked - not tracked by git.
-2- Staged - index , Modified
+2- Staged - index
 3- Commited -
 
+
+To Configuration-
 git config --global user.name "githubUserName"
+git config --global user.name "email"
+
+git clone "filename"  -  for cloning git repo
+
+git pull origin "branchName" - to take pull , receive code from github
 
 
