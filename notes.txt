@@ -1,0 +1,32 @@
+What is git ?
+
+VCS  - Version Control System (tool);
+
+W3Schools - 
+HTML, CSS - Live(1.0.0)
+JS - (1.0.1)
+
+Track Changes
+Revert
+Undo Mistakes
+View History - When, Who, Why - Purpuse
+
+Git- VCS (Open Source, Distrbuted)
+Linux Torvalds
+Local
+
+
+Github - 
+Host Website
+Remote(Online)
+
+Commands - 
+git -v :  to check version of git
+git init - Create a git repo(folder) (hidden folder)
+
+Stages for Tracking our File
+1- Untracked - not tracked by git.
+2- Staged
+3- Commited
+
+4- Modified
