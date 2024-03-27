@@ -24,9 +24,14 @@ Commands -
 git -v :  to check version of git
 git init - Create a git repo(folder) (hidden folder)
 
+git add <fileName> - to move to staging area from untracked.
+git status - for checking the status of git repo in stage
+
+git commit -m "commit message"
+
 Stages for Tracking our File
 1- Untracked - not tracked by git.
-2- Staged
-3- Commited
+2- Staged - index , Modified
+3- Commited -
 
-4- Modified
+
